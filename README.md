@@ -22,10 +22,7 @@ Under denna vår tredje kursvecka kommer vi att ta våra API-kunskaper i mål ge
 * [Serverless Framework](https://www.serverless.com/)
 
 ### Övningar
-* [Lambda Bootcamp](https://github.com/fu-cloud-fe23/exercise-aws-lambda-bootcamp)
-* [API-Gateway Bootcamp](https://github.com/fu-cloud-fe23/exercise-aws-api-gateway-bootcamp)
-* [Serverless Framework Bootcamp](https://github.com/fu-cloud-fe23/exercise-aws-serverless-framework-bootcamp)
-* [DunamoDB Bootcamp]()
+* [DynamoDB Bootcamp]()
 
 
 
