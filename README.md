@@ -23,7 +23,7 @@ Under denna vår tredje kursvecka kommer vi att ta våra API-kunskaper i mål ge
 * [Serverless Framework](https://www.serverless.com/)
 
 ### Övningar
-* [DynamoDB Bootcamp](https://github.com/fu-cloud-fe23/schedule-week-36.git)
+* [DynamoDB Bootcamp](https://github.com/fu-cloud-fe23/exercise-aws-dynamodb-bootcamp)
 
 
 
